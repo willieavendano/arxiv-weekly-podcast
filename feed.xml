@@ -34,5 +34,20 @@
     </item>
     -->
 
+    <item>
+      <title>Week of June 9, 2026 — Agent Governance Takes Shape</title>
+      <link>https://willieavendano.github.io/arxiv-weekly-podcast/</link>
+      <guid isPermaLink="false">arxiv-weekly-2026-06-09</guid>
+      <description>10 papers from June 8: CHAP human-agent protocol, SearchSwarm delegation intelligence, sobering findings on agent self-reflection, first native iOS agent benchmark, and Splunk's observability framework for delegated execution. Plus: AdvGRPO red teaming, PRIME reward hacking early warning, and 5 cross-paper trends.</description>
+      <content:encoded><![CDATA[Full show notes at ~/Vault/memory/arxiv/2026-06-09-briefing.md
+
+This week: 10 papers covering human-agent collaboration protocol (CHAP), delegation intelligence (SearchSwarm), multi-turn agent improvement failures, iOSWorld benchmark, delegation observability (Splunk/Cisco), adversarial GRPO training, and reward hacking detection. Five trends: agent governance maturing, delegation beating scale, self-reflection failing, RL understanding deepening, phone agent benchmarks humbling.]]></content:encoded>
+      <enclosure url="https://willieavendano.github.io/arxiv-weekly-podcast/episodes/2026-06-09.mp3" 
+                 length="2000880" type="audio/mpeg"/>
+      <pubDate>Mon, 09 Jun 2026 20:15:00 GMT</pubDate>
+      <itunes:duration>23:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
   </channel>
 </rss>
