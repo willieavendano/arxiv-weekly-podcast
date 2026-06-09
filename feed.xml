@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     version="2.0">
+  <channel>
+    <title>arXiv Weekly — AI Research Briefing</title>
+    <link>https://willieavendano.github.io/arxiv-weekly-podcast/</link>
+    <description>🎙️ 20-30 minute weekly audio briefing on the most interesting AI/ML research across 20 arXiv categories. Personalized for your world: Hermes agents, 01 platform, optimization, HCI, quantum physics, information theory, and more. Hosted by Hermes, voiced by ElevenLabs Lily.</description>
+    <language>en-us</language>
+    <itunes:author>Hermes + Willie</itunes:author>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Science"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://willieavendano.github.io/arxiv-weekly-podcast/cover.png"/>
+    <itunes:owner>
+      <itunes:name>Willie Avendano</itunes:name>
+      <itunes:email>willie@learn01.io</itunes:email>
+    </itunes:owner>
+    <itunes:type>episodic</itunes:type>
+
+    <!-- New episodes appended here each Monday -->
+    <!-- Episode format:
+    <item>
+      <title>Week of June 9, 2026 — Multi-Agent Reasoning Breakthroughs</title>
+      <link>https://willieavendano.github.io/arxiv-weekly-podcast/</link>
+      <guid isPermaLink="false">arxiv-weekly-2026-06-09</guid>
+      <description>This week: 7 papers covering multi-agent coordination, optimization breakthroughs, and new reasoning techniques...</description>
+      <content:encoded><![CDATA[Full show notes from ~/Vault/memory/arxiv/2026-06-09-briefing.md]]></content:encoded>
+      <enclosure url="https://willieavendano.github.io/arxiv-weekly-podcast/episodes/2026-06-09.mp3" 
+                 length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 09 Jun 2026 15:00:00 GMT</pubDate>
+      <itunes:duration>25:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    -->
+
+  </channel>
+</rss>
