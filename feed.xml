@@ -49,5 +49,20 @@ This week: 10 papers covering human-agent collaboration protocol (CHAP), delegat
       <itunes:episodeType>full</itunes:episodeType>
     </item>
 
+    <item>
+      <title>Week of June 15, 2026 — Silent Failures, Agent Reliability & Multi-Agent Optimization</title>
+      <link>https://willieavendano.github.io/arxiv-weekly-podcast/</link>
+      <guid isPermaLink="false">arxiv-weekly-2026-06-15</guid>
+      <description>7 papers: production taxonomy of silent failures in LLM agent runtimes, AgentSpec modular framework for agent architecture, Parallel-Synthesis using KV caches for 2.5-11x faster multi-agent synthesis, AI governance in open source with documented incidents, StreamMemBench memory evaluation, SIMMER latent planning failures, and PCMA coordinated multi-agent RL.</description>
+      <content:encoded><![CDATA[Full show notes at ~/Vault/memory/arxiv/2026-06-15-briefing.md
+
+This week: 7 papers on the theme of agent reliability and production readiness. A five-class taxonomy of silent failures in production LLM agent runtimes (including the new "fail-plausible" class), AgentSpec's framework for studying agent scaffold composition, Parallel-Synthesis making parallel agent synthesis 2.5-11x faster via KV cache sharing, AI governance frameworks for open-source contributions, StreamMemBench revealing the "stored but not used" memory problem, SIMMER finding 56% of LLM plans contain latent failures, and PCMA learning coordinated agent preferences for multi-objective coordination.]]></content:encoded>
+      <enclosure url="https://willieavendano.github.io/arxiv-weekly-podcast/episodes/2026-06-15.mp3" 
+                 length="25048129" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Jun 2026 15:00:00 GMT</pubDate>
+      <itunes:duration>17:23</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
   </channel>
 </rss>
