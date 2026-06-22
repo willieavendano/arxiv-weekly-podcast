@@ -64,5 +64,20 @@ This week: 7 papers on the theme of agent reliability and production readiness. 
       <itunes:episodeType>full</itunes:episodeType>
     </item>
 
+    <item>
+      <title>Week of June 22, 2026 — Multi-Agent Contagion, Tool-Calling State &amp; Cross-Device Recovery</title>
+      <link>https://willieavendano.github.io/arxiv-weekly-podcast/</link>
+      <guid isPermaLink="false">arxiv-weekly-2026-06-22</guid>
+      <description>7 papers: Contagion Networks formalizing multi-agent bias propagation, LedgerAgent structured state for policy-adherent tool-calling, H-RePlan hierarchical recovery for cross-device agents, Sovereign Execution Brokers for certificate-bound agent authority, NRT-Bench safety-critical agent red-teaming, IFllm implicit feedback for LLM alignment, and UltraQuant 4-bit KV caching for context-heavy agents.</description>
+      <content:encoded><![CDATA[Full show notes at ~/Vault/memory/arxiv/2026-06-22-briefing.md
+
+This week: 7 papers covering multi-agent bias contagion (Contagion Networks), structured state management for tool-calling agents (LedgerAgent), hierarchical cross-device recovery (H-RePlan), certificate-bound agent authority (Sovereign Execution Brokers), safety-critical red-teaming (NRT-Bench), implicit preference signals (IFllm), and efficient KV caching (UltraQuant). Three trends: agent state management is the hot problem, agent security is maturing, and multi-agent evaluation bias is real and measurable.]]></content:encoded>
+      <enclosure url="https://willieavendano.github.io/arxiv-weekly-podcast/episodes/2026-06-22.mp3" 
+                 length="17348066" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Jun 2026 15:00:00 GMT</pubDate>
+      <itunes:duration>00:12:02</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
   </channel>
 </rss>
