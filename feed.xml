@@ -79,5 +79,20 @@ This week: 7 papers covering multi-agent bias contagion (Contagion Networks), st
       <itunes:episodeType>full</itunes:episodeType>
     </item>
 
+    <item>
+      <title>Week of June 23, 2026 — Agent Immune Systems, Tandem RL &amp; Democratic Alignment</title>
+      <link>https://willieavendano.github.io/arxiv-weekly-podcast/</link>
+      <guid isPermaLink="false">arxiv-weekly-2026-06-29</guid>
+      <description>7 papers: ANIS, the first biologically-inspired immune system architecture for autonomous AI agents; Tandem RLVR, making RL-trained reasoning legible without sacrificing performance; Democratic ICAI, multi-agent debate for richer alignment principles; GBC gradient-based credit assignment for multi-agent systems; Google PAT, catching 90% of errors in scientific papers; LLMs reframed as special-case world models; and mechanistic evidence that jailbreak safety is bypassed, not broken.</description>
+      <content:encoded><![CDATA[Full show notes at ~/Vault/memory/arxiv/2026-06-29-briefing.md
+
+This week: 7 papers covering agent immune system architecture (ANIS), tandem RL training for human-compatible reasoning (TRL), democratic debate for alignment principles (DICAI), gradient-based multi-agent credit assignment (GBC), Google's automated paper review (PAT), LLMs as special case of world models, and attention head specialization in jailbreak attacks. Three trends: agent security maturing as first-class concern, compatibility through co-generation as emerging paradigm, and agentic pipelines consistently outperforming monolithic approaches.]]></content:encoded>
+      <enclosure url="https://willieavendano.github.io/arxiv-weekly-podcast/episodes/2026-06-29.mp3" 
+                 length="28681239" type="audio/mpeg"/>
+      <pubDate>Mon, 29 Jun 2026 15:00:00 GMT</pubDate>
+      <itunes:duration>00:19:55</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
   </channel>
 </rss>
