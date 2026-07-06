@@ -94,5 +94,18 @@ This week: 7 papers covering agent immune system architecture (ANIS), tandem RL 
       <itunes:episodeType>full</itunes:episodeType>
     </item>
 
+    <item>
+      <title>Week of July 6, 2026 — Agent Security, Social Dynamics, and When Reasoning Beats Tooling</title>
+      <link>https://willieavendano.github.io/arxiv-weekly-podcast/</link>
+      <guid isPermaLink="false">arxiv-weekly-2026-07-06</guid>
+      <description><![CDATA[Eight papers on AI agent security, long-context reasoning, multi-agent social dynamics, and finding that reasoning effort — not more tools — is what makes coding agents reliable.]]></description>
+      <content:encoded><![CDATA[Full show notes at ~/Vault/memory/arxiv/2026-07-06-briefing.md. This week: Distributed attacks in persistent-state AI control, ReContext for long-context evidence replay, LLM agents' public vs. private behavior, why reasoning effort beats tool access for coding reliability, constraint-based agent steering, DecompRL for modular code generation, online safety monitoring, and automated Linux/bash grading with LLMs.]]></content:encoded>
+      <enclosure url="https://willieavendano.github.io/arxiv-weekly-podcast/episodes/2026-07-06.mp3" 
+                 length="17496651" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Jul 2026 15:00:00 GMT</pubDate>
+      <itunes:duration>00:12:08</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
   </channel>
 </rss>
