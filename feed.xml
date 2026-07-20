@@ -50,7 +50,7 @@ This week: 10 papers covering human-agent collaboration protocol (CHAP), delegat
     </item>
 
     <item>
-      <title>Week of June 15, 2026 — Silent Failures, Agent Reliability & Multi-Agent Optimization</title>
+      <title>Week of June 15, 2026 — Silent Failures, Agent Reliability &amp; Multi-Agent Optimization</title>
       <link>https://willieavendano.github.io/arxiv-weekly-podcast/</link>
       <guid isPermaLink="false">arxiv-weekly-2026-06-15</guid>
       <description>7 papers: production taxonomy of silent failures in LLM agent runtimes, AgentSpec modular framework for agent architecture, Parallel-Synthesis using KV caches for 2.5-11x faster multi-agent synthesis, AI governance in open source with documented incidents, StreamMemBench memory evaluation, SIMMER latent planning failures, and PCMA coordinated multi-agent RL.</description>
@@ -104,6 +104,18 @@ This week: 7 papers covering agent immune system architecture (ANIS), tandem RL 
                  length="17496651" type="audio/mpeg"/>
       <pubDate>Mon, 06 Jul 2026 15:00:00 GMT</pubDate>
       <itunes:duration>00:12:08</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
+      <title>Week of July 20, 2026 — Reliable Agents Are Built from Reliable Interfaces</title>
+      <link>https://willieavendano.github.io/arxiv-weekly-podcast/</link>
+      <guid isPermaLink="false">arxiv-weekly-2026-07-20</guid>
+      <description><![CDATA[This week: pretraining-to-RL scaling, information bottlenecks in multi-agent systems, Muon for agentic RL, evidence-aware research workbenches, visual tool use, change-directed testing, and dynamic MoE serving.]]></description>
+      <content:encoded><![CDATA[Full show notes at ~/Vault/memory/arxiv/2026-07-20-briefing.md. This week’s theme: reliable agents are built from reliable interfaces.]]></content:encoded>
+      <enclosure url="https://willieavendano.github.io/arxiv-weekly-podcast/episodes/2026-07-20.mp3" length="25095776" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Jul 2026 15:00:00 GMT</pubDate>
+      <itunes:duration>00:17:25</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
 
