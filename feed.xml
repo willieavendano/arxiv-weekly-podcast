@@ -119,5 +119,17 @@ This week: 7 papers covering agent immune system architecture (ANIS), tandem RL 
       <itunes:episodeType>full</itunes:episodeType>
     </item>
 
+    <item>
+      <title>Week of July 27, 2026 — The Hidden Costs of Building AI Agents</title>
+      <link>https://willieavendano.github.io/arxiv-weekly-podcast/</link>
+      <guid isPermaLink="false">arxiv-weekly-2026-07-27</guid>
+      <description><![CDATA[Eight papers on agent skill design, cognitive tool dynamics, training methodology, agent security, and automated research. The Regression Tax shows adding skills to agents breaks existing capabilities; Krakauer formalizes how opaque AI tools irreversibly destroy human competence; MetaEvolve trains models to self-improve across rounds with 46.9% transfer gain. Plus: TRACE-Router, OpenForge RL, ToolGuardian, CausalForge, and LeAct.]]></description>
+      <content:encoded><![CDATA[Full show notes at ~/Vault/memory/arxiv/2026-07-27-briefing.md. This week's theme: how we build, evaluate, and secure AI agents is being fundamentally rethought. Eight papers: The Regression Tax (Sentient Labs), Competitive & Complementary Tools (Krakauer/SFI), MetaEvolve (UIUC), TRACE-Router (Georgia Tech/Intel), OpenForge RL (Columbia/Microsoft), ToolGuardian, CausalForge (Lean-grounded research automation), and LeAct (Princeton).]]></content:encoded>
+      <enclosure url="https://willieavendano.github.io/arxiv-weekly-podcast/episodes/2026-07-27.mp3" length="11459857" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Jul 2026 15:00:00 GMT</pubDate>
+      <itunes:duration>00:07:57</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
   </channel>
 </rss>
