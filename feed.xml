@@ -131,5 +131,17 @@ This week: 7 papers covering agent immune system architecture (ANIS), tandem RL 
       <itunes:episodeType>full</itunes:episodeType>
     </item>
 
+    <item>
+      <title>Week of August 3, 2026 — Stateful Agents &amp; the Shift from Generation to Verification</title>
+      <link>https://willieavendano.github.io/arxiv-weekly-podcast/</link>
+      <guid isPermaLink="false">arxiv-weekly-2026-08-03</guid>
+      <description><![CDATA[Eight papers on agentic serving, coding-agent memory, exact math verification, and AI education. TokTier makes tokenization scale with the append not the context (16-34% lower TTFT for agents); STAIR turns past repair trajectories into hierarchical plans that hit 81.2% Pass@1 on SWE-bench Verified and transfer across agents; AMTFV separates "what to verify" from "how to compute" with exact math tools; AgentHPOBench tests agents as experimental scientists; plus two papers on educating the agentic engineer, a 1-bit optimizer that breaks theory, and Lean-verified Shannon capacity bounds.]]></description>
+      <content:encoded><![CDATA[Full show notes at ~/Vault/memory/arxiv/2026-08-03-briefing.md. This week's theme: the shift from generating to verifying — plus agent memory crystallizing across three papers. Eight papers: TokTier (ASU), STAIR (Concordia), AMTFV (Renmin), AgentHPOBench, Educating the Agentic Engineer (SDAIA), "You Can't Outsource the Struggle" (UFPA/CESAR), SignMuon, and Lean-verified Shannon capacity of odd cycles (CWI/Tilburg/Amsterdam).]]></content:encoded>
+      <enclosure url="https://willieavendano.github.io/arxiv-weekly-podcast/episodes/2026-08-03.mp3" length="35716119" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Aug 2026 15:00:00 GMT</pubDate>
+      <itunes:duration>00:24:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
   </channel>
 </rss>
