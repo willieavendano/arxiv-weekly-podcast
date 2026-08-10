@@ -143,5 +143,17 @@ This week: 7 papers covering agent immune system architecture (ANIS), tandem RL 
       <itunes:episodeType>full</itunes:episodeType>
     </item>
 
+    <item>
+      <title>Week of August 10, 2026 — Evolving Agent Skills, Memory Revocation &amp; Automated Optimization</title>
+      <link>https://willieavendano.github.io/arxiv-weekly-podcast/</link>
+      <guid isPermaLink="false">arxiv-weekly-2026-08-10</guid>
+      <description><![CDATA[Eight papers with one dominant theme: agent memory and skills are living systems that need verification, revocation, and deletion. SkillProx evolves agent skills with outcome-verified edits and utility-aware pruning; TEPA proves append-only memory can be worse than no memory and adds lifecycle revocation; AutoOPT discovers a new optimal optimization method (lemniscate acceleration) with LLMs + Lean 4; CoBa routes test-time compute to match best-of-16 at 59% fewer tokens. Plus: the physics of one AI bossing another, and two papers that caught the field cheating at its own benchmarks.]]></description>
+      <content:encoded><![CDATA[Full show notes at ~/Vault/memory/arxiv/2026-08-10-briefing.md. This week's theme: agent memory and skills as living systems — verify, revoke, re-rank, delete. Eight papers: SkillProx (agent skill evolution via proximal textual gradient descent), TEPA (revoking stale memories), CoBa (compute-balanced test-time routing), AutoOPT (BnB-PEP + LLMs + Lean 4 automated optimization research), Interaction Creates Dynamical AI Behavior (GWU physics), Zero Gap Is Not Restoration (benchmark contamination metrics), Winning by Peeking (AutoML comparison protocol defects), and PsychoAgent (affect-sensitive agent memory).]]></content:encoded>
+      <enclosure url="https://willieavendano.github.io/arxiv-weekly-podcast/episodes/2026-08-10.mp3" length="26794780" type="audio/mpeg"/>
+      <pubDate>Mon, 10 Aug 2026 15:00:00 GMT</pubDate>
+      <itunes:duration>00:18:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
   </channel>
 </rss>
