@@ -155,5 +155,17 @@ This week: 7 papers covering agent immune system architecture (ANIS), tandem RL 
       <itunes:episodeType>full</itunes:episodeType>
     </item>
 
+    <item>
+      <title>Week of August 17, 2026 — Rewindable Agents, Session Handover &amp; the Value of Being Wrong</title>
+      <link>https://willieavendano.github.io/arxiv-weekly-podcast/</link>
+      <guid isPermaLink="false">arxiv-weekly-2026-08-17</guid>
+      <description><![CDATA[Eight papers, one through-line: agent systems are learning what to do after things go wrong. AgentRewind checkpoints and rewinds long-horizon agent execution; a new theory defines what a session must hand over at context limits; wrong multi-agent messages turn out to carry the useful reasoning; Twin's test-time world model clears 97.8% of ARC-AGI-3; AI-assisted discovery settles a 20-year ADMM open problem with a period-66 counterexample; Toby Ord does the math on intelligence explosions; Rollplex overlaps VLM RL phases for 1.6-2.2x speedup.]]></description>
+      <content:encoded><![CDATA[Full show notes at ~/Vault/memory/arxiv/2026-08-17-briefing.md. This week's theme: recovery over prevention — rewind checkpoints, session handover theory, trajectory value of wrong answers, test-time world models, AI-assisted theorem discovery, intelligence explosion dynamics, and cross-phase GPU scheduling for VLM RL.]]></content:encoded>
+      <enclosure url="https://willieavendano.github.io/arxiv-weekly-podcast/episodes/2026-08-17.mp3" length="27841767" type="audio/mpeg"/>
+      <pubDate>Mon, 17 Aug 2026 15:00:00 GMT</pubDate>
+      <itunes:duration>00:19:19</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
   </channel>
 </rss>
