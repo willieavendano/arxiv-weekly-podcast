@@ -167,5 +167,17 @@ This week: 7 papers covering agent immune system architecture (ANIS), tandem RL 
       <itunes:episodeType>full</itunes:episodeType>
     </item>
 
+    <item>
+      <title>Week of August 24, 2026 — Compiling Agents, Poisoning Memories &amp; Newton's New Pace</title>
+      <link>https://willieavendano.github.io/arxiv-weekly-podcast/</link>
+      <guid isPermaLink="false">arxiv-weekly-2026-08-24</guid>
+      <description><![CDATA[Eight papers, one through-line: agents are becoming systems. Artic compiles natural-language workflows into artifact-driven programs (+28 pts resolve rate); agent memory poisoning shows 1.2% false statements destroy two-thirds of memory value while content screening refuses 0 of 360 poisoned entries; AID-Guard guarantees one approval yields at most one provider effect. Plus: a one-solve O(1/k³) accelerated Newton from Cornell ORIE, memory-augmented compressed reasoning with 1.14-1.49x latency speedup, the case for indexing your RAG at ingest time (85.2% from 2.2k tokens), Periodic Row-wise Muon for 1.3B-15B diffusion transformers, and an impossibility result on truthful calibration.]]></description>
+      <content:encoded><![CDATA[Full show notes at ~/Vault/memory/arxiv/2026-08-24-briefing.md. This week's theme: compile, don't interpret — workflow compilation, ingest-time semantic compilation, memory scaffolds for reasoning, periodic spectral refreshes. Eight papers: Artic (Purdue), Utility Under Attack: Agent Memory Poisoning (Quantify Labs), AID-Guard, Primal Acceleration of Newton's Method (Cornell ORIE), Memory Augmentation Unlocks Efficient CoT Reasoning (CAS/Baidu/Tencent), RAG Deserves an Index (Endgame Labs/Musashino), Scaling Muon for Diffusion Transformers (USC/Meta), and Truthful Calibration Measures (Northeastern/Northwestern/MSR).]]></content:encoded>
+      <enclosure url="https://willieavendano.github.io/arxiv-weekly-podcast/episodes/2026-08-24.mp3" length="32327514" type="audio/mpeg"/>
+      <pubDate>Mon, 24 Aug 2026 15:00:00 GMT</pubDate>
+      <itunes:duration>00:22:27</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
   </channel>
 </rss>
