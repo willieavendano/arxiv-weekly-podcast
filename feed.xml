@@ -179,5 +179,17 @@ This week: 7 papers covering agent immune system architecture (ANIS), tandem RL 
       <itunes:episodeType>full</itunes:episodeType>
     </item>
 
+    <item>
+      <title>Week of August 31, 2026 — Agent Security, RL Tool-Use &amp; the Ceiling on Text-Only Learning</title>
+      <link>https://willieavendano.github.io/arxiv-weekly-podcast/</link>
+      <guid isPermaLink="false">arxiv-weekly-2026-08-31</guid>
+      <description><![CDATA[Eight papers, one uncomfortable headline: AI agents can't be trusted to police themselves. Recognition Without Enforcement watches models detect a forged system override and execute it anyway (100% of the time on three frontier models); LongPIBench shows state-of-the-art prompt-injection defenses collapse to 78-100% attack success at long context; Cheng & Cotterell prove text alone has an information-theoretic ceiling on recovering intended meaning. Plus: Tool-DAPO teaches agents calculator use via RL (pass@1 35.8% → 66%), ContextPilot trains agents to manage their own context, and Microsoft shows sliding-window attention beats post-trained linear attention with zero training.]]></description>
+      <content:encoded><![CDATA[Full show notes at ~/Vault/memory/arxiv/2026-08-31-briefing.md. This week's theme: recognition is not enforcement — provenance must be enforced outside the context window. Eight papers: Recognition Without Enforcement (instruction arbitration, 124K+ trials, external reference monitor), LongPIBench (long-context prompt injection benchmark), A Formal Limitation on Learning Human Language From Textual Corpora (Cotterell), Learning to Use Tools (RL tool-integrated math), ContextPilot (proactive context management), Fidelity Is Not Enough (dispatch-level instrumentation), Sliding-window beats linear attention (Microsoft), and Logos (cross-process agent harness, AAMAS 2027).]]></content:encoded>
+      <enclosure url="https://willieavendano.github.io/arxiv-weekly-podcast/episodes/2026-08-31.mp3" length="25382286" type="audio/mpeg"/>
+      <pubDate>Mon, 31 Aug 2026 15:00:00 GMT</pubDate>
+      <itunes:duration>00:17:37</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
   </channel>
 </rss>
