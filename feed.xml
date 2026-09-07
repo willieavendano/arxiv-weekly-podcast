@@ -191,5 +191,17 @@ This week: 7 papers covering agent immune system architecture (ANIS), tandem RL 
       <itunes:episodeType>full</itunes:episodeType>
     </item>
 
+  <item>
+    <title>Week of September 7, 2026 — When Agents Change: Memory, Teams &amp; Security That Composes</title>
+    <link>https://willieavendano.github.io/arxiv-weekly-podcast/</link>
+    <guid isPermaLink="false">arxiv-weekly-2026-09-07</guid>
+    <description><![CDATA[Eight papers, one through-line: agents are only as reliable as their transitions. Agent memory written as free-form notes loses up to 13 points of accuracy when the underlying model is swapped, while fixed-schema memory transfers losslessly; LLM agent teams pay 16-63% more communication when a teammate is replaced; and CONTINUITY shows separately-sound agent security controls compose into a 66%-attack-success false sense of security. Plus: a draft-model gate that predicts coding-agent failure before it executes, skill towers grown from execution traces, asking before you build an optimization model, whether LLM explanations mean what they claim, and Meta's WearableQA health benchmark over 500 real days of wearable data.]]></description>
+    <content:encoded><![CDATA[Full show notes at ~/Vault/memory/arxiv/2026-09-07-briefing.md. This week's theme: change-safety in agent systems — memory portability across model upgrades (LinkedIn), interchangeability in LLM agent teams (placebo-controlled swap tests), security-context contracts for composable controls (ZAST.AI), speculative-uncertainty veto gates for coding agents, Trace2Tower skill induction (Fudan), pre-formulation clarification for LLM-to-OR (SJTU), explanation faithfulness under behavioral evidence (BNY), and WearableQA (Meta/KAIST).]]></content:encoded>
+    <enclosure url="https://willieavendano.github.io/arxiv-weekly-podcast/episodes/2026-09-07.mp3" length="40342926" type="audio/mpeg"/>
+    <pubDate>Mon, 07 Sep 2026 15:00:00 GMT</pubDate>
+    <itunes:duration>00:28:01</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+
   </channel>
 </rss>
