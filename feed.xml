@@ -201,7 +201,19 @@ This week: 7 papers covering agent immune system architecture (ANIS), tandem RL 
     <pubDate>Mon, 07 Sep 2026 15:00:00 GMT</pubDate>
     <itunes:duration>00:28:01</itunes:duration>
     <itunes:episodeType>full</itunes:episodeType>
-  </item>
+    </item>
 
-  </channel>
-</rss>
+    <item>
+    <title>Week of September 14, 2026 — The Harness Is the Experiment</title>
+    <link>https://willieavendano.github.io/arxiv-weekly-podcast/</link>
+    <guid isPermaLink="false">arxiv-weekly-2026-09-14</guid>
+    <description><![CDATA[Ten papers and one through-line: the machinery around the model matters, and the instruments we use to judge it are weaker than we admit. A paired same-model study finds no average advantage for vendor-native agent harnesses (it hides opposite strata: −9.0pp on repo tasks, +23.7pp on contest tasks), and costs the neutral harness 1.3–1.6× per solved task; a second paper shows optimized repository SKILL.md files buying +4.9pp that can't be separated from run-to-run noise. On trust: 705 skill-registry-clean skills still instruct actions forbidden by CIS/NIST controls, 34.7% of commands a live agent executed had a consequence class absent from the docs, agent self-reports carry about one action in eleven, and 57.5% of conversations rated "satisfied" by a blind panel failed the actual task. Plus forecasted exactly-once failure after crash recovery (30/240 injections replay a planner call), a forensic reconstruction of the in-the-wild agent wiki swarm, a rate-distortion bound splitting hallucination into compression vs coverage, and six computational primitives that reframe prompt injection and reward hacking as one missing design gap.]]></description>
+    <content:encoded><![CDATA[Full show notes at ~/Vault/memory/arxiv/2026-09-14-briefing.md. This week's theme: the harness is the experiment. Ten papers: Harness or Model? (claude-agent-sdk vs deepagents, openai-codex SDK vs deepagents; 792/800 runs graded; 22 of 81 wall-clock-cancelled runs had a passing patch), Skill Issue (GEPA vs SkillOpt on kotest/ktor/koog, paired with-without scoring), Scan the Skill Govern the Action (66,192 ClawHub versions; deterministic 67.6ms permission gate; "ten clean approvals" can't exclude a 25.9% failure rate), Look Before You Leap (pre-action verification; line-number edits corrupt 99.1% of files under a 1-line shift), Plans They Abandon Reports They Author (5,851 sessions, 355,942 tool calls), Guardrailed Meta-Agent Loops (hash-pinned policy; outcome recovery ≠ exactly-once), The Mechanics of a Swarm (14,591 revisions, ~876 episodes, 78% latent speed scale), The Cost of Compression (rate-distortion bound on hallucination), GAUGE (satisfaction–success gap; 31% judge disagreement on close pairs), and The Computational Primitives of Adaptation (Arouse/Orient/Valence/Position/Boundary/Attune). Discovery via arXiv RSS announcement feeds — the export API was rate-limited (sticky 429); Semantic Scholar enrichment skipped for the same reason; NotebookLM auth expired.]]></content:encoded>
+    <enclosure url="https://willieavendano.github.io/arxiv-weekly-podcast/episodes/2026-09-14.mp3" length="37533356" type="audio/mpeg"/>
+    <pubDate>Mon, 14 Sep 2026 15:00:00 GMT</pubDate>
+    <itunes:duration>00:26:03</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    </channel>
+    </rss>
