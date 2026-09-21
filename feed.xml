@@ -215,5 +215,17 @@ This week: 7 papers covering agent immune system architecture (ANIS), tandem RL 
     <itunes:episodeType>full</itunes:episodeType>
     </item>
 
+    <item>
+    <title>Week of September 21, 2026 — The Gate Is the Design: What 226,000 Agent Attacks Reveal About Boundaries</title>
+    <link>https://willieavendano.github.io/arxiv-weekly-podcast/</link>
+    <guid isPermaLink="false">arxiv-weekly-2026-09-21</guid>
+    <description><![CDATA[Eight papers, one conclusion: the model is the wrong place to put the guarantee. A 225,964-evaluation benchmark replays 4,371 human-written attacks against 14 models in two architectures — 140 unpermitted money transfers with the model alone, 0 behind a deterministic check in the tool-dispatch path, and identical request rates in both (−0.084pp apart). A human-approval paper shows you can hijack an approval without ever lying to the human, reproduced in seven Agno AgentOS releases and twelve LangGraph compositions. Plus: a theory paper that puts units (bits per period) on agent containment and derives a decay threshold where a secret becomes unreachable, a zero-parameter memory-trust gate that cuts conflicting-memory hallucination ~56%, provenance rings that move source authority into the attention mechanism, a round-trip study showing serialization alone costs up to 60.4 accuracy points between two models, an adaptive tutor that models the learner instead of the item bank, and why gzip is a machine learning algorithm.]]></description>
+    <content:encoded><![CDATA[Full show notes at ~/Vault/memory/arxiv/2026-09-21-briefing.md. This week's theme: the gate is the design. Eight papers: Loopjacking (approval-binding failures; 7 Agno releases, 12 LangGraph compositions, OpenAI Agents SDK as negative control), APort Vault (4,371 human CTF attacks × 14 models × 5 policy levels × 2 architectures; 140 vs 0 unpermitted transfers; 47.9% of outcomes from one session; forged-receipt cohort; judge kappa 0.167 at one level), Provisional Reachability (escrow + audit + revocation, L(r) ~ c/(er), decay threshold mu > g/L, lying names worth 0.10 of 3.00 bits), MDL memory decision layer (zero-parameter trust gate, -56% hallucination, 0.14 ms), Origin Is All You Need (provenance-aware transformers with ring IDs), The Communication Bottleneck (16 models, all pairwise round trips, 60.4-point role-swap asymmetry, 73.6% of failures at generation), CoLearn (EMNLP 2026; BKT with LLM observation function, 68-69% blind A/B preference), and An Introduction to Compression-Based Machine Learning (DSAA 2026). Discovery via the arXiv export API plus all 21 RSS announcement feeds (997 IDs / 455 new); Semantic Scholar rate-limited (1 of 8 calls landed, 0 citations); NotebookLM auth expired — top-3 summaries staged at ~/Vault/memory/arxiv/2026-09-21-notebooklm-sources/.]]></content:encoded>
+    <enclosure url="https://willieavendano.github.io/arxiv-weekly-podcast/episodes/2026-09-21.mp3" length="48238316" type="audio/mpeg"/>
+    <pubDate>Mon, 21 Sep 2026 15:00:00 GMT</pubDate>
+    <itunes:duration>00:33:29</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
     </channel>
     </rss>
