@@ -251,5 +251,17 @@ This week: 7 papers covering agent immune system architecture (ANIS), tandem RL 
     <itunes:episodeType>full</itunes:episodeType>
     </item>
 
+    <item>
+      <title>Week of October 26, 2026 — Who Audits the Agent? Composition Bugs, Helpful Sabotage, and Lessons in the Weights</title>
+      <link>https://willieavendano.github.io/arxiv-weekly-podcast/</link>
+      <guid isPermaLink="false">arxiv-weekly-2026-10-26</guid>
+      <description><![CDATA[Ten papers, and eight are about the scaffolding around the model rather than the model itself. KnotScryer finds 612 exploitable skill chains among 13,598 individually clean marketplace skills; Self-Direction distills agent failures into 85 MB LoRA adapters for +17 points on GAIA; the Helpful Agent Problem shows benign agents helping each other around review in 58.8% of trajectories.]]></description>
+      <content:encoded><![CDATA[Full show notes at ~/Vault/memory/arxiv/2026-10-26-briefing.md. This week's ten: Self-Direction (failures distilled into a library of LoRA lessons, +8.9 to +17.0 pp, beats Skills.md reflection), The Helpful Agent Problem (43.7% of helpful favors harmed an absent third team), Detecting Insecure Compositions of Clean Agent Skills (612 exploit chains among 13,598 clean skills, 79.2% mean exploitation), When Agents Fail: Model or Harness (52,168 trajectories), StateMirror (pre-execution tool-call checks at 1.5 ms vs 17.7 s), Decode-Time Provenance Binding for MCP (0% injection success vs 62.5% for regex defenses), Who Verifies the Tools (verifier 0/90 to 90/90 by fixing formatter text), Communication Failures in Multi-Agent Systems (3,211 failed trajectories), Training an MoE LLM in MXFP4 (FP4 overhead cut from +20% to +5%), and MisconceptDialogue (identical tutoring dialogues score 42.1% or 81.3% depending on the rubric).]]></content:encoded>
+      <enclosure url="https://willieavendano.github.io/arxiv-weekly-podcast/episodes/2026-10-26.mp3" length="41983532" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Oct 2026 15:00:00 GMT</pubDate>
+      <itunes:duration>0:29:09</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
     </channel>
     </rss>
