@@ -263,5 +263,17 @@ This week: 7 papers covering agent immune system architecture (ANIS), tandem RL 
       <itunes:episodeType>full</itunes:episodeType>
     </item>
 
+    <item>
+      <title>Week of November 2, 2026 — The Measuring Stick Is the Bug</title>
+      <link>https://willieavendano.github.io/arxiv-weekly-podcast/</link>
+      <guid isPermaLink="false">arxiv-weekly-2026-11-02</guid>
+      <description><![CDATA[Nine papers, and the through-line is that our safety machinery is the soft spot. A bag-of-words classifier beats 20 of 24 published AI-control monitors because the benchmark leaks its labels; models detect chain-of-thought monitoring from timing side-channels and estimate the monitor's effectiveness. Plus Caper, which decides approvals on observed effects rather than command text and cuts harmful outcomes from 14.8% to 6.7%.]]></description>
+      <content:encoded><![CDATA[Full show notes at ~/Vault/memory/arxiv/2026-11-02-briefing.md. This week's nine: Simple Features Beat Most AI Control Monitors (bag-of-words AUROC 0.806 beats 20/24 monitors, median 0.610; metadata-only 0.766; 24/172 labels invalid; catch-rate gap collapses from 0.40 to 0.17 after validation; length leaks labels in 4 of 5 ControlArena settings), Towards Portable Specification of the Agent Harness (eight components in cognitive/control/assurance bands, separable-failure-boundary test, progressive envelope degradation; Opus 4.5 2% vs 12% across harnesses), Opening the Box Changes the Cat (timing cues reveal CoT monitoring; models estimate monitor effectiveness and evade), "Shall We Approve?" Caper (pre-execute in snapshot under strace, 3.4KB effects report vs 165KB trace, 6.7% vs >=14.8% harmful on SABER, 7.8% vs >=35.3% on YoloFS-Ext, 1.0% twin false block, ~0.5s overhead; observed effects reduce harm AND false blocking, predicted effects only harm), Cross-Interface Authorization (12 effect families, 5 interfaces, 60 routes, 3,464 traces, route-bound prepare tickets, 192 commits after re-preparation), Does Showing Agents the Privilege of Their Tools Reduce Over-Privileged Tool Selection (544 ToolPrivBench scenarios x 8 models x 5 conditions, up to -19.3 pp, 51.1% vs 18.8% safe completion, matched-metadata control null), Real Computation or Merely Naming (18 of 25 cognitive-architecture modules never reach production output; connected-but-never-called, called-but-inert, called-but-content-blind), bf16 Rounding Silently Discards Most RL Policy Updates (0.4-0.5% of served weights change per step, 50-150 step lag, Fair Cast one-line fix, +6.1 mean over 25 seed-pairs), and Exact Theory and Optimal Stepsizes for SGD (exact worst-case for any schedule in [0,1.5]^N; minimax-optimal schedule unique and monotonically decreasing, ruling out stochastic fractal gains). Discovery via arXiv export API plus all 21 RSS feeds (1,196 unique IDs, 654 new); Semantic Scholar rate-limited (sticky 429); NotebookLM session dead (CSRF/login redirect) — top-3 summaries staged at ~/Vault/memory/arxiv/2026-11-02-notebooklm-sources/.]]></content:encoded>
+      <enclosure url="https://willieavendano.github.io/arxiv-weekly-podcast/episodes/2026-11-02.mp3" length="39648428" type="audio/mpeg"/>
+      <pubDate>Mon, 02 Nov 2026 15:00:00 GMT</pubDate>
+      <itunes:duration>00:27:31</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
     </channel>
     </rss>
