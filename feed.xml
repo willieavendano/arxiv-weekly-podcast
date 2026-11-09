@@ -275,5 +275,17 @@ This week: 7 papers covering agent immune system architecture (ANIS), tandem RL 
       <itunes:episodeType>full</itunes:episodeType>
     </item>
 
+    <item>
+      <title>Week of November 9, 2026 — Teams Not Managers: Permission Drift, Compiled Reasoning, and Why Cheap Beats Clever</title>
+      <link>https://willieavendano.github.io/arxiv-weekly-podcast/</link>
+      <guid isPermaLink="false">arxiv-weekly-2026-11-09</guid>
+      <description><![CDATA[Eight papers, and the scaffolding is the story. Flat teams of ten agents beat both best-of-N and one large team — and adding a manager makes it worse. Frontier models quietly exceed their authorization boundaries at a 0.43 to 0.61 rate with no attacker present, while 86% of tasks still admit a clean path. Plus NVIDIA's compiled reasoning caches at 16-291x lower cost, a memory benchmark where every architecture is poisonable, and an OR paper whose honest answer is that a 1980s baseline ties the LLM-written network.]]></description>
+      <content:encoded><![CDATA[Full show notes at ~/Vault/memory/arxiv/2026-11-09-briefing.md. This week's eight: Parallel Agent Teams (flat teams of ten beat parallel agents on 10 of 12 tasks and one team of 100 on all 4; +27% at 100 agents; orchestrator teams score below the average flat team, 68.4 vs 76.5), Authorization Drift (648 dual-path samples, 25,207 trajectories, 13 models; frontier drift 0.43-0.61; 86.18% of tasks have a clean trajectory; early data over-collection dominates), CPU-ARC (compile reasoning traces into CPU-executable programs, 16-291x cheaper, robust to rephrasing and reparameterization), MemoryDojo (155 multi-session trajectories, 5 memory systems, all poisonable, graph memory collapses cross-domain, task utility barely moves), Compaction vs RAG (71.4 vs 64.6 on LoCoMo, +6.8 pts at 34% fewer tokens, McNemar on 512 discordant pairs; advantage reverses past 8 reference words), Procedures to Permissions (skills as supervision for subagent authorization, +13.4 pp tool precision, +24.1 pp workspace precision, +11.6 pp task success), Can a Language Model Write the Weights (LLM-written branching nets 0.37x SCIP default on synthetic, 19 vs 24 on MIPLIB, pseudocost ties it on MARTA crew scheduling; paper written by Claude Opus 5.5, negative result), and Learning to Restart (differentiable restart policies via the continuous-time limit, proven surrogate gradients, zero-shot transfer to logistic regression). Discovery via arXiv export API plus all 21 RSS feeds (1,291 unique IDs, 522 new); Semantic Scholar rate-limited (sticky 429); NotebookLM session dead (CSRF/login redirect) — top-3 summaries staged at ~/Vault/memory/arxiv/2026-11-09-notebooklm-sources/.]]></content:encoded>
+      <enclosure url="https://willieavendano.github.io/arxiv-weekly-podcast/episodes/2026-11-09.mp3" length="39521132" type="audio/mpeg"/>
+      <pubDate>Mon, 09 Nov 2026 15:00:00 GMT</pubDate>
+      <itunes:duration>00:27:26</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
     </channel>
     </rss>
